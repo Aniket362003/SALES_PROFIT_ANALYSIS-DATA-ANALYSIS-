@@ -1,0 +1,109 @@
+﻿Order ID,Date,City,Category,Product,Quantity,Price,Sales,Profit,Discount (%),Profit Label
+ORD1000,11-24-23,Mumbai,Electronics,Headphones,5,320.4,1602.0,400.5,5,Profit
+ORD1001,02-22-23,Chennai,Electronics,Headphones,7,128.6,900.2,270.06,0,Profit
+ORD1002,04-22-23,Delhi,Furniture,Bookshelf,1,605.12,605.12,90.77,15,Profit
+ORD1003,04-23-23,Hyderabad,Furniture,Desk,1,782.93,782.93,195.73,5,Profit
+ORD1004,12-24-23,Hyderabad,Office Supplies,Notebook,3,293.78,881.34,176.27,10,Profit
+ORD1005,02-22-23,Mumbai,Office Supplies,Pen,6,862.74,5176.44,1035.29,10,Profit
+ORD1006,01-23-23,Hyderabad,Furniture,Chair,7,170.92,1196.44,239.29,10,Profit
+ORD1007,11-18-23,Chennai,Office Supplies,Stapler,4,734.11,2936.44,880.93,0,Profit
+ORD1008,12-05-23,Delhi,Office Supplies,Pen,4,879.84,3519.36,527.9,15,Profit
+ORD1009,05-23-23,Hyderabad,Furniture,Desk,3,433.16,1299.48,324.87,5,Profit
+ORD1010,12-10-23,Pune,Furniture,Bookshelf,2,648.22,1296.44,324.11,5,Profit
+ORD1011,10-01-23,Delhi,Electronics,Smartphone,7,342.95,2400.65,600.16,5,Profit
+ORD1012,12-17-23,Pune,Electronics,Laptop,1,824.54,824.54,123.68,15,Profit
+ORD1013,05-18-23,Mumbai,Electronics,Headphones,6,291.36,1748.16,262.22,15,Profit
+ORD1014,07-22-23,Hyderabad,Electronics,Smartphone,3,321.96,965.88,193.18,10,Profit
+ORD1015,10-27-23,Hyderabad,Furniture,Desk,6,297.39,1784.34,446.08,5,Profit
+ORD1016,09-18-23,Hyderabad,Electronics,Laptop,2,237.56,475.12,118.78,5,Profit
+ORD1017,12-15-23,Hyderabad,Furniture,Chair,7,443.46,3104.22,465.63,15,Profit
+ORD1018,09-28-23,Pune,Furniture,Chair,2,713.54,1427.08,285.42,10,Profit
+ORD1019,11-25-23,Pune,Electronics,Smartphone,7,242.34,1696.38,508.91,0,Profit
+ORD1020,05-15-23,Chennai,Electronics,Headphones,2,883.47,1766.94,353.39,10,Profit
+ORD1021,11-24-23,Chennai,Furniture,Chair,3,436.52,1309.56,327.39,5,Profit
+ORD1022,10-04-23,Chennai,Electronics,Headphones,6,539.75,3238.5,971.55,0,Profit
+ORD1023,07-05-23,Pune,Electronics,Laptop,4,890.21,3560.84,1068.25,0,Profit
+ORD1024,02-13-23,Hyderabad,Electronics,Headphones,3,215.55,646.65,97.0,15,Profit
+ORD1025,10-09-23,Delhi,Office Supplies,Stapler,10,480.82,4808.2,1202.05,5,Profit
+ORD1026,10-04-23,Delhi,Furniture,Desk,7,995.63,6969.41,1393.88,10,Profit
+ORD1027,08-13-23,Chennai,Office Supplies,Pen,4,302.23,1208.92,241.78,10,Profit
+ORD1028,01-11-23,Chennai,Furniture,Chair,10,298.2,2982.0,894.6,0,Profit
+ORD1029,12-29-23,Mumbai,Electronics,Laptop,1,873.67,873.67,262.1,0,Profit
+ORD1030,09-21-23,Delhi,Office Supplies,Stapler,8,292.81,2342.48,585.62,5,Profit
+ORD1031,10-20-23,Chennai,Office Supplies,Pen,8,826.75,6614.0,1653.5,5,Profit
+ORD1032,02-18-23,Mumbai,Furniture,Desk,6,481.22,2887.32,433.1,15,Profit
+ORD1033,01-28-23,Mumbai,Electronics,Smartphone,6,820.53,4923.18,1476.95,0,Profit
+ORD1034,05-08-23,Delhi,Electronics,Headphones,8,226.16,1809.28,452.32,5,Profit
+ORD1035,05-23-23,Hyderabad,Electronics,Laptop,8,827.22,6617.76,1985.33,0,Profit
+ORD1036,01-26-23,Chennai,Electronics,Laptop,4,249.68,998.72,149.81,15,Profit
+ORD1037,09-04-23,Delhi,Office Supplies,Pen,3,441.08,1323.24,198.49,15,Profit
+ORD1038,05-16-23,Hyderabad,Office Supplies,Notebook,9,695.68,6261.12,939.17,15,Profit
+ORD1039,03-21-23,Delhi,Office Supplies,Pen,1,621.26,621.26,186.38,0,Profit
+ORD1040,06-10-23,Mumbai,Electronics,Headphones,8,552.57,4420.56,1105.14,5,Profit
+ORD1041,01-30-23,Chennai,Electronics,Laptop,2,635.53,1271.06,317.76,5,Profit
+ORD1042,07-26-23,Mumbai,Furniture,Chair,10,635.07,6350.7,1905.21,0,Profit
+ORD1043,08-03-23,Chennai,Furniture,Bookshelf,6,941.24,5647.44,1411.86,5,Profit
+ORD1044,12-09-23,Pune,Electronics,Smartphone,7,217.79,1524.53,304.91,10,Profit
+ORD1045,08-23-23,Pune,Electronics,Laptop,8,659.04,5272.32,1581.7,0,Profit
+ORD1046,02-07-23,Chennai,Electronics,Headphones,5,219.21,1096.05,219.21,10,Profit
+ORD1047,02-05-23,Delhi,Office Supplies,Notebook,3,494.37,1483.11,296.62,10,Profit
+ORD1048,11-10-23,Chennai,Electronics,Headphones,9,369.44,3324.96,997.49,0,Profit
+ORD1049,03-10-23,Pune,Electronics,Laptop,9,239.9,2159.1,431.82,10,Profit
+ORD1050,11-06-23,Delhi,Furniture,Desk,4,718.75,2875.0,575.0,10,Profit
+ORD1051,09-16-23,Hyderabad,Office Supplies,Pen,2,670.86,1341.72,268.34,10,Profit
+ORD1052,01-23-23,Mumbai,Office Supplies,Pen,5,245.42,1227.1,184.06,15,Profit
+ORD1053,10-10-23,Hyderabad,Furniture,Chair,2,167.72,335.44,83.86,5,Profit
+ORD1054,10-07-23,Mumbai,Office Supplies,Stapler,9,233.28,2099.52,524.88,5,Profit
+ORD1055,01-22-23,Pune,Office Supplies,Pen,6,289.07,1734.42,433.61,5,Profit
+ORD1056,12-08-23,Mumbai,Office Supplies,Stapler,7,976.45,6835.15,1708.79,5,Profit
+ORD1057,05-02-23,Delhi,Electronics,Smartphone,1,261.42,261.42,52.28,10,Profit
+ORD1058,07-30-23,Delhi,Office Supplies,Pen,2,444.29,888.58,266.57,0,Profit
+ORD1059,08-29-23,Delhi,Electronics,Smartphone,6,374.67,2248.02,562.0,5,Profit
+ORD1060,04-25-23,Mumbai,Furniture,Chair,7,395.44,2768.08,830.42,0,Profit
+ORD1061,05-23-23,Pune,Furniture,Bookshelf,7,711.57,4980.99,996.2,10,Profit
+ORD1062,01-15-23,Mumbai,Office Supplies,Pen,10,966.28,9662.8,1932.56,10,Profit
+ORD1063,01-20-23,Mumbai,Furniture,Desk,6,755.69,4534.14,906.83,10,Profit
+ORD1064,08-12-23,Chennai,Furniture,Chair,7,909.55,6366.85,1591.71,5,Profit
+ORD1065,05-11-23,Mumbai,Furniture,Desk,1,567.93,567.93,141.98,5,Profit
+ORD1066,07-06-23,Hyderabad,Electronics,Headphones,6,660.84,3965.04,1189.51,0,Profit
+ORD1067,06-03-23,Chennai,Office Supplies,Stapler,7,393.56,2754.92,550.98,10,Profit
+ORD1068,10-11-23,Delhi,Electronics,Smartphone,7,709.59,4967.13,1241.78,5,Profit
+ORD1069,11-12-23,Chennai,Office Supplies,Notebook,9,850.35,7653.15,1530.63,10,Profit
+ORD1070,05-27-23,Delhi,Office Supplies,Stapler,10,689.24,6892.4,1033.86,15,Profit
+ORD1071,08-15-23,Hyderabad,Furniture,Chair,9,525.87,4732.83,1183.21,5,Profit
+ORD1072,12-04-23,Mumbai,Office Supplies,Stapler,10,401.67,4016.7,1004.18,5,Profit
+ORD1073,12-11-23,Pune,Electronics,Laptop,3,121.98,365.94,91.48,5,Profit
+ORD1074,09-01-23,Chennai,Electronics,Smartphone,7,897.52,6282.64,1570.66,5,Profit
+ORD1075,12-23-23,Hyderabad,Office Supplies,Notebook,4,232.81,931.24,279.37,0,Profit
+ORD1076,02-24-23,Hyderabad,Electronics,Laptop,9,518.09,4662.81,1165.7,5,Profit
+ORD1077,03-04-23,Hyderabad,Electronics,Smartphone,9,989.1,8901.9,1780.38,10,Profit
+ORD1078,08-15-23,Chennai,Furniture,Bookshelf,7,847.51,5932.57,889.89,15,Profit
+ORD1079,03-23-23,Hyderabad,Office Supplies,Notebook,4,855.88,3423.52,684.7,10,Profit
+ORD1080,09-24-23,Hyderabad,Furniture,Chair,5,495.89,2479.45,495.89,10,Profit
+ORD1081,05-01-23,Pune,Office Supplies,Notebook,9,172.52,1552.68,388.17,5,Profit
+ORD1082,04-29-23,Hyderabad,Furniture,Chair,4,157.81,631.24,94.69,15,Profit
+ORD1083,06-19-23,Chennai,Office Supplies,Notebook,1,286.15,286.15,42.92,15,Profit
+ORD1084,07-19-23,Chennai,Furniture,Chair,10,442.34,4423.4,1327.02,0,Profit
+ORD1085,06-30-23,Pune,Office Supplies,Notebook,9,772.76,6954.84,1738.71,5,Profit
+ORD1086,09-07-23,Delhi,Office Supplies,Notebook,8,126.12,1008.96,201.79,10,Profit
+ORD1087,12-09-23,Hyderabad,Furniture,Chair,8,927.59,7420.72,2226.22,0,Profit
+ORD1088,07-21-23,Chennai,Furniture,Bookshelf,1,175.55,175.55,26.33,15,Profit
+ORD1089,03-11-23,Hyderabad,Electronics,Laptop,5,441.19,2205.95,551.49,5,Profit
+ORD1090,08-21-23,Pune,Office Supplies,Notebook,5,776.81,3884.05,582.61,15,Profit
+ORD1091,05-10-23,Mumbai,Office Supplies,Pen,9,146.88,1321.92,264.38,10,Profit
+ORD1092,04-25-23,Mumbai,Furniture,Chair,1,954.65,954.65,238.66,5,Profit
+ORD1093,01-11-23,Chennai,Electronics,Laptop,3,526.2,1578.6,473.58,0,Profit
+ORD1094,10-16-23,Delhi,Office Supplies,Stapler,5,790.21,3951.05,987.76,5,Profit
+ORD1095,11-07-23,Chennai,Furniture,Bookshelf,2,800.01,1600.02,400.0,5,Profit
+ORD1096,06-09-23,Mumbai,Furniture,Chair,5,618.22,3091.1,463.67,15,Profit
+ORD1097,07-23-23,Delhi,Electronics,Headphones,4,191.71,766.84,153.37,10,Profit
+ORD1098,12-17-23,Chennai,Electronics,Headphones,1,412.48,412.48,61.87,15,Profit
+ORD1099,12-05-23,Pune,Electronics,Headphones,6,111.39,668.34,100.25,15,Profit
+,,,,,,,TOTAL SALES,TOTAL PROFIT,,
+TOTAL ORDERS,,,,,,,288513.4,66989.0,,
+100,,,,,,,,,,
+,,,,,,,AVERAGE ORDER VALUE,PROFIT MARGIN,,
+,,,,,,,2885.1,23.218667000000000,,
+,,,,,,,,,,
+,,,,,,,,,,
+
