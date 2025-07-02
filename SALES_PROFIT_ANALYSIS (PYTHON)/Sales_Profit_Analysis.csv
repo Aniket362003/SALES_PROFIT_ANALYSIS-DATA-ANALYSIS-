@@ -1,0 +1,101 @@
+Order ID,Date,City,Category,Product,Quantity,Price,Sales,Profit,Discount (%)
+ORD1000,2023-11-24,Mumbai,Electronics,Headphones,5,320.4,1602.0,400.5,5
+ORD1001,2023-02-22,Chennai,Electronics,Headphones,7,128.6,900.2,270.06,0
+ORD1002,2023-04-22,Delhi,Furniture,Bookshelf,1,605.12,605.12,90.77,15
+ORD1003,2023-04-23,Hyderabad,Furniture,Desk,1,782.93,782.93,195.73,5
+ORD1004,2023-12-24,Hyderabad,Office Supplies,Notebook,3,293.78,881.34,176.27,10
+ORD1005,2023-02-22,Mumbai,Office Supplies,Pen,6,862.74,5176.44,1035.29,10
+ORD1006,2023-01-23,Hyderabad,Furniture,Chair,7,170.92,1196.44,239.29,10
+ORD1007,2023-11-18,Chennai,Office Supplies,Stapler,4,734.11,2936.44,880.93,0
+ORD1008,2023-12-05,Delhi,Office Supplies,Pen,4,879.84,3519.36,527.9,15
+ORD1009,2023-05-23,Hyderabad,Furniture,Desk,3,433.16,1299.48,324.87,5
+ORD1010,2023-12-10,Pune,Furniture,Bookshelf,2,648.22,1296.44,324.11,5
+ORD1011,2023-10-01,Delhi,Electronics,Smartphone,7,342.95,2400.65,600.16,5
+ORD1012,2023-12-17,Pune,Electronics,Laptop,1,824.54,824.54,123.68,15
+ORD1013,2023-05-18,Mumbai,Electronics,Headphones,6,291.36,1748.16,262.22,15
+ORD1014,2023-07-22,Hyderabad,Electronics,Smartphone,3,321.96,965.88,193.18,10
+ORD1015,2023-10-27,Hyderabad,Furniture,Desk,6,297.39,1784.34,446.08,5
+ORD1016,2023-09-18,Hyderabad,Electronics,Laptop,2,237.56,475.12,118.78,5
+ORD1017,2023-12-15,Hyderabad,Furniture,Chair,7,443.46,3104.22,465.63,15
+ORD1018,2023-09-28,Pune,Furniture,Chair,2,713.54,1427.08,285.42,10
+ORD1019,2023-11-25,Pune,Electronics,Smartphone,7,242.34,1696.38,508.91,0
+ORD1020,2023-05-15,Chennai,Electronics,Headphones,2,883.47,1766.94,353.39,10
+ORD1021,2023-11-24,Chennai,Furniture,Chair,3,436.52,1309.56,327.39,5
+ORD1022,2023-10-04,Chennai,Electronics,Headphones,6,539.75,3238.5,971.55,0
+ORD1023,2023-07-05,Pune,Electronics,Laptop,4,890.21,3560.84,1068.25,0
+ORD1024,2023-02-13,Hyderabad,Electronics,Headphones,3,215.55,646.65,97.0,15
+ORD1025,2023-10-09,Delhi,Office Supplies,Stapler,10,480.82,4808.2,1202.05,5
+ORD1026,2023-10-04,Delhi,Furniture,Desk,7,995.63,6969.41,1393.88,10
+ORD1027,2023-08-13,Chennai,Office Supplies,Pen,4,302.23,1208.92,241.78,10
+ORD1028,2023-01-11,Chennai,Furniture,Chair,10,298.2,2982.0,894.6,0
+ORD1029,2023-12-29,Mumbai,Electronics,Laptop,1,873.67,873.67,262.1,0
+ORD1030,2023-09-21,Delhi,Office Supplies,Stapler,8,292.81,2342.48,585.62,5
+ORD1031,2023-10-20,Chennai,Office Supplies,Pen,8,826.75,6614.0,1653.5,5
+ORD1032,2023-02-18,Mumbai,Furniture,Desk,6,481.22,2887.32,433.1,15
+ORD1033,2023-01-28,Mumbai,Electronics,Smartphone,6,820.53,4923.18,1476.95,0
+ORD1034,2023-05-08,Delhi,Electronics,Headphones,8,226.16,1809.28,452.32,5
+ORD1035,2023-05-23,Hyderabad,Electronics,Laptop,8,827.22,6617.76,1985.33,0
+ORD1036,2023-01-26,Chennai,Electronics,Laptop,4,249.68,998.72,149.81,15
+ORD1037,2023-09-04,Delhi,Office Supplies,Pen,3,441.08,1323.24,198.49,15
+ORD1038,2023-05-16,Hyderabad,Office Supplies,Notebook,9,695.68,6261.12,939.17,15
+ORD1039,2023-03-21,Delhi,Office Supplies,Pen,1,621.26,621.26,186.38,0
+ORD1040,2023-06-10,Mumbai,Electronics,Headphones,8,552.57,4420.56,1105.14,5
+ORD1041,2023-01-30,Chennai,Electronics,Laptop,2,635.53,1271.06,317.76,5
+ORD1042,2023-07-26,Mumbai,Furniture,Chair,10,635.07,6350.7,1905.21,0
+ORD1043,2023-08-03,Chennai,Furniture,Bookshelf,6,941.24,5647.44,1411.86,5
+ORD1044,2023-12-09,Pune,Electronics,Smartphone,7,217.79,1524.53,304.91,10
+ORD1045,2023-08-23,Pune,Electronics,Laptop,8,659.04,5272.32,1581.7,0
+ORD1046,2023-02-07,Chennai,Electronics,Headphones,5,219.21,1096.05,219.21,10
+ORD1047,2023-02-05,Delhi,Office Supplies,Notebook,3,494.37,1483.11,296.62,10
+ORD1048,2023-11-10,Chennai,Electronics,Headphones,9,369.44,3324.96,997.49,0
+ORD1049,2023-03-10,Pune,Electronics,Laptop,9,239.9,2159.1,431.82,10
+ORD1050,2023-11-06,Delhi,Furniture,Desk,4,718.75,2875.0,575.0,10
+ORD1051,2023-09-16,Hyderabad,Office Supplies,Pen,2,670.86,1341.72,268.34,10
+ORD1052,2023-01-23,Mumbai,Office Supplies,Pen,5,245.42,1227.1,184.06,15
+ORD1053,2023-10-10,Hyderabad,Furniture,Chair,2,167.72,335.44,83.86,5
+ORD1054,2023-10-07,Mumbai,Office Supplies,Stapler,9,233.28,2099.52,524.88,5
+ORD1055,2023-01-22,Pune,Office Supplies,Pen,6,289.07,1734.42,433.61,5
+ORD1056,2023-12-08,Mumbai,Office Supplies,Stapler,7,976.45,6835.15,1708.79,5
+ORD1057,2023-05-02,Delhi,Electronics,Smartphone,1,261.42,261.42,52.28,10
+ORD1058,2023-07-30,Delhi,Office Supplies,Pen,2,444.29,888.58,266.57,0
+ORD1059,2023-08-29,Delhi,Electronics,Smartphone,6,374.67,2248.02,562.0,5
+ORD1060,2023-04-25,Mumbai,Furniture,Chair,7,395.44,2768.08,830.42,0
+ORD1061,2023-05-23,Pune,Furniture,Bookshelf,7,711.57,4980.99,996.2,10
+ORD1062,2023-01-15,Mumbai,Office Supplies,Pen,10,966.28,9662.8,1932.56,10
+ORD1063,2023-01-20,Mumbai,Furniture,Desk,6,755.69,4534.14,906.83,10
+ORD1064,2023-08-12,Chennai,Furniture,Chair,7,909.55,6366.85,1591.71,5
+ORD1065,2023-05-11,Mumbai,Furniture,Desk,1,567.93,567.93,141.98,5
+ORD1066,2023-07-06,Hyderabad,Electronics,Headphones,6,660.84,3965.04,1189.51,0
+ORD1067,2023-06-03,Chennai,Office Supplies,Stapler,7,393.56,2754.92,550.98,10
+ORD1068,2023-10-11,Delhi,Electronics,Smartphone,7,709.59,4967.13,1241.78,5
+ORD1069,2023-11-12,Chennai,Office Supplies,Notebook,9,850.35,7653.15,1530.63,10
+ORD1070,2023-05-27,Delhi,Office Supplies,Stapler,10,689.24,6892.4,1033.86,15
+ORD1071,2023-08-15,Hyderabad,Furniture,Chair,9,525.87,4732.83,1183.21,5
+ORD1072,2023-12-04,Mumbai,Office Supplies,Stapler,10,401.67,4016.7,1004.18,5
+ORD1073,2023-12-11,Pune,Electronics,Laptop,3,121.98,365.94,91.48,5
+ORD1074,2023-09-01,Chennai,Electronics,Smartphone,7,897.52,6282.64,1570.66,5
+ORD1075,2023-12-23,Hyderabad,Office Supplies,Notebook,4,232.81,931.24,279.37,0
+ORD1076,2023-02-24,Hyderabad,Electronics,Laptop,9,518.09,4662.81,1165.7,5
+ORD1077,2023-03-04,Hyderabad,Electronics,Smartphone,9,989.1,8901.9,1780.38,10
+ORD1078,2023-08-15,Chennai,Furniture,Bookshelf,7,847.51,5932.57,889.89,15
+ORD1079,2023-03-23,Hyderabad,Office Supplies,Notebook,4,855.88,3423.52,684.7,10
+ORD1080,2023-09-24,Hyderabad,Furniture,Chair,5,495.89,2479.45,495.89,10
+ORD1081,2023-05-01,Pune,Office Supplies,Notebook,9,172.52,1552.68,388.17,5
+ORD1082,2023-04-29,Hyderabad,Furniture,Chair,4,157.81,631.24,94.69,15
+ORD1083,2023-06-19,Chennai,Office Supplies,Notebook,1,286.15,286.15,42.92,15
+ORD1084,2023-07-19,Chennai,Furniture,Chair,10,442.34,4423.4,1327.02,0
+ORD1085,2023-06-30,Pune,Office Supplies,Notebook,9,772.76,6954.84,1738.71,5
+ORD1086,2023-09-07,Delhi,Office Supplies,Notebook,8,126.12,1008.96,201.79,10
+ORD1087,2023-12-09,Hyderabad,Furniture,Chair,8,927.59,7420.72,2226.22,0
+ORD1088,2023-07-21,Chennai,Furniture,Bookshelf,1,175.55,175.55,26.33,15
+ORD1089,2023-03-11,Hyderabad,Electronics,Laptop,5,441.19,2205.95,551.49,5
+ORD1090,2023-08-21,Pune,Office Supplies,Notebook,5,776.81,3884.05,582.61,15
+ORD1091,2023-05-10,Mumbai,Office Supplies,Pen,9,146.88,1321.92,264.38,10
+ORD1092,2023-04-25,Mumbai,Furniture,Chair,1,954.65,954.65,238.66,5
+ORD1093,2023-01-11,Chennai,Electronics,Laptop,3,526.2,1578.6,473.58,0
+ORD1094,2023-10-16,Delhi,Office Supplies,Stapler,5,790.21,3951.05,987.76,5
+ORD1095,2023-11-07,Chennai,Furniture,Bookshelf,2,800.01,1600.02,400.0,5
+ORD1096,2023-06-09,Mumbai,Furniture,Chair,5,618.22,3091.1,463.67,15
+ORD1097,2023-07-23,Delhi,Electronics,Headphones,4,191.71,766.84,153.37,10
+ORD1098,2023-12-17,Chennai,Electronics,Headphones,1,412.48,412.48,61.87,15
+ORD1099,2023-12-05,Pune,Electronics,Headphones,6,111.39,668.34,100.25,15
